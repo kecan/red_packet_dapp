@@ -1,0 +1,5 @@
+{
+  "name": "红包DApp项目配置",
+  "description": "这个目录将在编译后包含合约的ABI和部署地址",
+  "note": "运行 'npm run compile' 和 'npm run migrate' 后，编译的合约文件将出现在这里"
+}
